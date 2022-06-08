@@ -2,6 +2,10 @@
 
 This is a simple library for accessing the [DPLA search API](http://dp.la/info/developers/).
 
+Update on 2022-06-08: I've had an email notifying me that there have been breaking
+changes to the API and I can no longer state that it will work. Since I no longer
+use this code I won't be updating it but I'll be happy to accept pull requests.
+
 ## Basic usage
 
 To get started you simply need to require the main DPLA class and create an
